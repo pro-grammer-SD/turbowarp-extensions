@@ -1,0 +1,5 @@
+1. FIX: c8c8d494-0108-48fd-92a1-b069841a19da:1 Uncaught (in promise) DataCloneError: Failed to execute 'postMessage' on 'Window': function() {
+                                window.open("https://tweakpane.github.io/docs/theming/#builder");
+...<omitted>... } could not be cloned.
+    at Object.postMessage (c8c8d494-0108-48fd-92a1-b069841a19da:1:14487)
+    at c8c8d494-0108-48fd-92a1-b069841a19da:1:26145
